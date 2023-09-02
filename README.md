@@ -2,7 +2,7 @@
 
 This is a simple temperature converter app written in Java. It allows users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin. Additionally, it features a clear and user-friendly restart button to reset the conversion fields.
 
-![Temperature Converter App Screenshot](img1.png)
+![Temperature Converter App Screenshot](ScreenShot/img1.png)
 
 ## Table of Contents
 
